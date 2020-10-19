@@ -1,5 +1,5 @@
 # pynse
-Library to extract realtime and historical data from NSE website
+Library to extract realtime and historical data please click on NSE website ➡(https://reposhub.com/python/web-crawling/anoopjangra-pynse.html)
 
 
 >>> from pynse import *
@@ -7,3 +7,4 @@ Library to extract realtime and historical data from NSE website
 >>> nse=Nse()
 
 >>> nse.info('SBIN')
+                                               thanks for visting our site
